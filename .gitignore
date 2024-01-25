@@ -1,0 +1,8 @@
+Data/
+.idea/
+WatermarkRemoval/.idea/
+WatermarkRemoval/runs/
+WatermarkRemoval/results/
+WatermarkRemoval/__pycache__/
+WatermarkRemoval/watermarkRemoval_etap2/
+WatermarkRemoval/*.pth
