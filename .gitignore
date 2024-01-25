@@ -2,6 +2,7 @@ Data/
 .idea/
 WatermarkRemoval/.idea/
 WatermarkRemoval/runs/
+WatermarkRemoval/ready_models/
 WatermarkRemoval/results/
 WatermarkRemoval/__pycache__/
 WatermarkRemoval/watermarkRemoval_etap2/
